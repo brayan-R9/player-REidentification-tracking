@@ -4,6 +4,12 @@
 This project detects and tracks football players in a match video using YOLOv11 for detection and DeepSORT for tracking.
 More Details about the project has been added in **report.pdf** uploaded in this repository.
 
+The output video that I got is uploaded here for reference :
+
+
+https://github.com/user-attachments/assets/7b9a7833-6e40-49bd-892b-e7ee8e324ee7
+
+
 ## ⚙️ Setup Instructions
 
 **Environment used:**  
